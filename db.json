@@ -43,14 +43,8 @@
         "id": "4",
         "name": "Planning"
       },
-      "cost": null,
+      "cost": 0,
       "services": [
-        {
-          "name": "Analista de negócios",
-          "cost": "1500",
-          "description": "Contratação de um Analista de Negócios",
-          "id": "98247d0a-d87b-417b-9959-7193edba7b00"
-        }
       ]
     }
   ],
