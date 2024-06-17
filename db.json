@@ -2,50 +2,43 @@
   "projects": [
     {
       "id": "a6fd",
-      "name": "Leme",
-      "budget": "10000",
+      "name": "Facebook",
+      "budget": "100000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "1",
+        "name": "Infra"
       },
-      "cost": 10000,
+      "cost": 15000,
       "services": [
         {
-          "name": "Leme design",
-          "cost": "1000",
-          "description": "Desing do Leme",
-          "id": "55b1dfe1-499d-4467-b273-10c1a466e75b"
-        },
-        {
-          "name": "Desing figma",
-          "cost": "9000",
-          "description": "Desgin do figma",
-          "id": "af3bacb7-bc27-40aa-9b93-05ecadc5c4ab"
+          "name": "Cloud",
+          "cost": "15000",
+          "description": "Cloud Storage",
+          "id": "6eda3fb2-ec86-455c-bb2d-55157e8bcb74"
         }
       ]
     },
     {
       "id": "4140",
       "category": {
-        "id": "2",
-        "name": "Development"
+        "id": "4",
+        "name": "Planning"
       },
-      "name": "Navega",
-      "budget": "2000",
+      "name": "Tesla",
+      "budget": "200000",
       "cost": 0,
       "services": []
     },
     {
-      "id": "b655",
+      "id": "105c",
       "name": "BMW",
-      "budget": "24000",
+      "budget": "110000",
       "category": {
-        "id": "4",
-        "name": "Planning"
+        "id": "2",
+        "name": "Development"
       },
       "cost": 0,
-      "services": [
-      ]
+      "services": []
     }
   ],
   "categories": [

@@ -34,6 +34,7 @@ function ServiceForm({ handleSubmit, btnText, projectData, required }) {
         name="cost"
         placeholder="Enter the total amount"
         handleOnChange={handleChange}
+        required={required}
       />
       <Input
         type="text"
@@ -41,6 +42,7 @@ function ServiceForm({ handleSubmit, btnText, projectData, required }) {
         name="description"
         placeholder="Enter service description"
         handleOnChange={handleChange}
+        required={required}
       />
       <SubmitButton text={btnText} />
     </form>
